@@ -1,0 +1,22 @@
+---
+title: "About Damir Mađarević"
+description: "Damir Mađarević, vanredni profesor. [Kratak opis o tebi za meta tagove.]"
+image: /img/portrait.webp
+comments: false
+---
+
+Damir Mađarević je vanredni profesor. [Dopuni sa nekoliko rečenica o tome čime se baviš i šta te zanima.]
+
+## Obrazovanje
+
+- [Škola/Fakultet], [smer], [godina]
+
+## Profesionalno iskustvo
+
+- [Pozicija] na [Kompanija/Institucija] ([godine])
+
+## Kontakt
+
+- Email: [tvoj@email.com](mailto:tvoj@email.com)
+- LinkedIn: [tvoj-profil](https://www.linkedin.com/in/tvoj-profil/)
+- GitHub: [tvoj-username](https://github.com/tvoj-username)

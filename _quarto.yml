@@ -1,0 +1,66 @@
+project:
+  type: website
+resources:
+  - llms.txt
+  - llms-full.txt
+  - robots.txt
+
+website:
+  site-url: "https://example.com"
+  title: "Damir Mađarević"
+  description: "Damir Mađarević, vanredni profesor. [Kratak opis o tebi u jednoj-dve rečenice.]"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about
+        text: About
+      - href: papers
+        text: Papers
+      - href: teaching
+        text: Teaching
+      - href: media
+        text: Media
+      - href: posts
+        text: The Notebook
+      - href: talks
+        text: Talks
+  page-footer:
+    left: "(c) Damir Mađarević, 2026–. [Disclaimer](/disclaimer/) · [Privacy](/privacy-policy/) · [Corrections](/corrections/)"
+  twitter-card:
+    site: "@yourhandle"
+    creator: "@yourhandle"
+  open-graph: true
+  # google-analytics: "YOUR-GA-ID"   # otkomentariši i upiši svoj GA ID kad budeš spreman/na
+
+format:
+  html:
+    filters:
+      - scripts/canonical-og-url.lua
+      - scripts/blogposting-schema.lua
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+    include-in-header:
+      text: |
+        <!--
+        Ovde možeš dodati Person/WebSite JSON-LD šemu (schema.org) za bolje
+        pojavljivanje u pretrazi, npr.:
+
+        <script type='application/ld+json'>
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Damir Mađarević",
+          "url": "https://example.com",
+          "sameAs": []
+        }
+        </script>
+        -->
+        <meta name="author" content="Damir Mađarević">

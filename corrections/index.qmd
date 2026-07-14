@@ -1,0 +1,23 @@
+---
+title: "Corrections Policy"
+description: "Politika ispravki za ovaj sajt — kako se greške obrađuju, ispravke beleže i tačnost održava."
+comments: false
+---
+
+*Poslednje ažurirano: [datum]*
+
+Posvećen/a sam tačnosti u svemu što objavljujem na ovom sajtu. Ova stranica opisuje kako se rešavaju greške, ispravke i ažuriranja.
+
+## Ispravke
+
+Ako se identifikuje činjenična greška u objavljenom tekstu, biće ispravljena i naznačena. Za bitne greške — one koje utiču na značenje ili zaključke — na tekst će biti dodata napomena o tome šta je promenjeno i kada.
+
+Manje ispravke (kucanje, neispravni linkovi, formatiranje) se rade bez posebne napomene.
+
+## Prijava grešaka
+
+Ako smatraš da si pronašao/la činjeničnu grešku, kontaktiraj me na [tvoj@email.com](mailto:tvoj@email.com) sa:
+
+- linkom ka stranici sa greškom,
+- opisom greške,
+- ako je moguće, izvorom za tačnu informaciju.

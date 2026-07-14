@@ -1,0 +1,9 @@
+---
+title: Papers
+---
+
+[Ovde će biti lista tvojih radova/publikacija. Primer formata ispod — obriši kad dodaš svoje.]
+
+# 2026
+
+- **Prezime I** (2026). Naslov rada. _Časopis_. doi:[10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx).

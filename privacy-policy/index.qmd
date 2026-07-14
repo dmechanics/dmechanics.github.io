@@ -1,0 +1,21 @@
+---
+title: "Privacy Policy"
+description: "Politika privatnosti za ovaj sajt — koji se podaci prikupljaju, kako se koriste i koja su tvoja prava kao posetioca."
+comments: false
+---
+
+*Poslednje ažurirano: [datum]*
+
+Ova politika privatnosti objašnjava koji se podaci prikupljaju kada posetiš ovaj sajt i kako se koriste.
+
+## Hosting
+
+Ovaj sajt je hostovan na [GitHub Pages](https://pages.github.com/) (ili navedi svog provajdera). [Ime provajdera] može prikupljati tehničke informacije poput IP adrese, tipa pregledača i referentne stranice.
+
+## Analitika
+
+[Ako koristiš Google Analytics ili sličan alat, opiši ovde šta se prikuplja. Ako ne koristiš analitiku, obriši ovu sekciju.]
+
+## Kontakt
+
+Ako imaš pitanja o ovoj politici privatnosti, možeš me kontaktirati na [tvoj@email.com](mailto:tvoj@email.com).

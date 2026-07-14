@@ -1,0 +1,31 @@
+---
+title: "Damir Mađarević"
+description: "Damir Mađarević, vanredni profesor. [Kratak opis o tebi u jednoj-dve rečenice.]"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/tvoj-profil/
+        - icon: github
+          text: Github
+          url: https://github.com/tvoj-username
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:tvoj@email.com
+image: img/portrait.webp
+comments: false
+---
+
+## Bio
+
+Damir Mađarević je vanredni profesor. [Kratka biografija — na kojoj instituciji predaješ, čime se baviš, koje je tvoje zanimanje/oblast interesovanja.]
+
+## Ključna interesovanja
+
+* **[Oblast 1]**: [kratak opis]
+* **[Oblast 2]**: [kratak opis]
+* **[Oblast 3]**: [kratak opis]
+
+## Kontakt
+
+Ako želiš da me kontaktiraš, pošalji mi [email](mailto:tvoj@email.com).

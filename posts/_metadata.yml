@@ -1,0 +1,22 @@
+author:
+  - id: me
+    number: 1
+    name:
+      given: Damir
+      family: Mađarević
+      literal: Damir Mađarević
+    email: tvoj@email.com
+format:
+  html:
+    df-print: paged
+    toc: true
+    lang: sr
+    code-overflow: wrap
+    mermaid:
+      theme: neutral
+citation:
+  type: article
+reference-location: margin
+citation-location: margin
+filters:
+  - ../scripts/blogposting-schema.lua

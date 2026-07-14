@@ -1,0 +1,11 @@
+---
+title: "Disclaimer"
+description: "Pravna napomena za ovaj sajt — izneti stavovi su autorovi lični i ne odražavaju stavove bilo koje povezane organizacije."
+comments: false
+---
+
+Stavovi izneti na ovom sajtu su lični stavovi autora. Ne odražavaju stavove bilo koje organizacije, kompanije ili tela sa kojim je autor povezan, uključujući trenutne ili bivše poslodavce.
+
+Sadržaj ovog sajta je informativnog karaktera i ne predstavlja profesionalni savet. Iako se ulažu razumni napori da se obezbedi tačnost, ne dajem garancije u pogledu potpunosti, tačnosti ili pouzdanosti bilo koje predstavljene informacije.
+
+Korišćenje bilo koje informacije sa ovog sajta je na sopstveni rizik.

@@ -1,0 +1,5 @@
+# Damir Mađarević
+
+> Vanredni profesor. [Jedna rečenica o tome čime se baviš.]
+
+Ovaj fajl prati [llms.txt](https://llmstxt.org/) konvenciju i pomaže AI asistentima da razumeju sadržaj sajta.
